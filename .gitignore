@@ -1,0 +1,13 @@
+# Archivos de configuración local de VS Code y Eclipse
+.classpath
+.project
+.vscode/
+.settings/
+
+# Archivos compilados y carpetas de salida
+bin/
+*.class
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
